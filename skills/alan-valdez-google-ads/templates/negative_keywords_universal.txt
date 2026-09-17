@@ -1,0 +1,156 @@
+# ==============================================================================
+# LISTA MAESTRA DE PALABRAS CLAVE NEGATIVAS UNIVERSALES (ESPAÑOL)
+# Metodología Alan Valdez - Google Ads
+# ==============================================================================
+# Instrucciones: Aplicar como Lista de Palabras Clave Negativas a nivel de Cuenta
+# o Campañas de Búsqueda para filtrar tráfico no transaccional y ahorrar presupuesto.
+# ==============================================================================
+
+# --- Gratuidad, Ahorro y Piratería ---
+gratis
+free
+gratuito
+gratuita
+gratuitos
+gratuitas
+sin costo
+0 pesos
+barato
+barata
+baratos
+baratas
+economico
+economica
+economicos
+economicas
+low cost
+descuento gratis
+crack
+cracked
+pirata
+torrent
+descargar gratis
+descarga gratis
+descargar
+hack
+serial
+keygen
+full gratis
+
+# --- Empleo, Trabajo y Recursos Humanos ---
+empleo
+empleos
+trabajo
+trabajos
+vacante
+vacantes
+bolsa de trabajo
+postular
+postulacion
+contratacion
+salario
+salarios
+sueldo
+sueldos
+cuanto pagan
+cuanto gana
+cv
+curriculum
+curriculum vitae
+practicas
+practicante
+pasantia
+pasantias
+home office vacantes
+indeed
+computrabajo
+linkedin empleo
+
+# --- Formación Gratuita, Educativo y DIY ---
+que es
+que significa
+significado
+definicion
+concepto
+como se hace
+como hacer
+como funciona
+tutorial
+tutoriales
+guia
+manual
+paso a paso
+curso gratis
+clase gratis
+aprender gratis
+pdf
+ebook gratis
+plantilla
+plantillas
+ejemplo
+ejemplos
+tesis
+monografia
+wikipedia
+rincon del vago
+youtube
+slideshare
+
+# --- Imágenes, Videos y Multimedia ---
+fotos
+foto
+imagenes
+imagen
+dibujos
+dibujo
+vector
+vectores
+png
+jpg
+iconos
+video
+videos
+fondos de pantalla
+wallpaper
+memes
+meme
+
+# --- Leyes, Gobierno y Regulaciones (No comerciales) ---
+ley
+codigo civil
+codigo penal
+constitucion
+norma
+decreto
+gobierno
+sat
+tramite
+oficial
+ministerio
+secretaria
+diario oficial
+
+# --- Usados, Reparaciones Caseras y Segunda Mano (Ajustar según producto) ---
+usado
+usada
+usados
+usadas
+segunda mano
+segundamano
+reparar gratis
+arreglar casero
+desarmar
+mercado libre usado
+ebay usado
+olx
+milanuncios
+wallapop
+foro
+foros
+opinion negativa
+quejas
+estafa
+fraude
+demanda
+noticias
+noticia
